@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm H C Prajwal</h1>
-<h4 align="center">🎓  AI-Engineer @ Informatiom Science and Engineering , MVJCE - Bengaluru | 📚 Lifelong Learner</h4>
+<h4 align="center">🎓  AI-Engineer @ Informatiom Science and Engineering , MVJCE - Bengaluru | R&D Intern at TiHAN IIT - Hyderabad |  📚 Lifelong Learner</h4>
 <p align="center">
   🌐 Exploring Data Science, Web Tech & AI | 🧠 Learning by Building | ⚡ Tech for Impact
 </p>
